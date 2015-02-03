@@ -1,3 +1,5 @@
+No more change, just merge https://github.com/harvesthq/chosen/commit/1e0422efae5be212acfc17bd40361e143ef40847
+
 # Chosen for rails asset pipeline
 
 [Chosen](https://github.com/harvesthq/chosen) is a library for making long, unwieldy select boxes more user friendly.
